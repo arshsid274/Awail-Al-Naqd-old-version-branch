@@ -10,7 +10,7 @@ export type Service = {
 
 export const services: Service[] = [
   {
-    id: "local-currency-exchange",
+    id: "localcurrencyExchange",
     title: "Local Currency Exchange",
     summary:
       "Fast exchange between major and emerging market currencies at transparent rates.",

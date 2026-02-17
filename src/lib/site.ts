@@ -1,4 +1,4 @@
-const DEFAULT_SITE_URL = "https://www.bluestarmoneyexchange.com";
+const DEFAULT_SITE_URL = "https://awail-alnaqd.com";
 
 function normalizeSiteUrl(rawUrl: string): string {
   try {
@@ -13,14 +13,14 @@ const siteUrl = normalizeSiteUrl(
 );
 
 export const siteConfig = {
-  companyName: process.env.NEXT_PUBLIC_COMPANY_NAME ?? "BlueStar Money Exchange",
+  companyName: process.env.NEXT_PUBLIC_COMPANY_NAME ?? "Awail Alnaqd Money",
   legalName:
     process.env.NEXT_PUBLIC_COMPANY_LEGAL_NAME ??
-    "BlueStar Money Exchange LLC",
+    "awail alnaqd Money Exchange LLC",
   siteUrl,
-  email:
-    process.env.NEXT_PUBLIC_CONTACT_EMAIL ??
-    "support@bluestarmoneyexchange.com",
+  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL ?? "info@awail-alnaqd.com",
+supportEmail: process.env.NEXT_PUBLIC_SUPPORT_EMAIL ?? "support@awail-alnaqd.com",
+
   phone: process.env.NEXT_PUBLIC_CONTACT_PHONE ?? "+218-942020302",
   addressLine:
     process.env.NEXT_PUBLIC_CONTACT_ADDRESS ??

@@ -20,37 +20,37 @@ const services = [
   {
     title: "Local Currency Exchange",
     description: "Competitive rates for buying and selling international currencies.",
-    image: "/images/service-local.jpg?v=20260217-133806",
+    image: "/images/localcurrencyExchange.jpg",
     alt: "Local currency exchange desk at Awail Al-Naqd",
   },
   {
     title: "International Money Transfers",
     description: "Secure worldwide bank-to-bank transfers.",
-    image: "/images/service-international.jpg?v=20260217-133806",
+    image: "/images/service-international.jpg",
     alt: "International money transfer services",
   },
   {
     title: "Medical Transfers",
     description: "Fast and reliable transfers to hospitals abroad.",
-    image: "/images/service-medical.jpg?v=20260217-133806",
+    image: "/images/service-medical.jpg",
     alt: "Medical transfer support for hospitals abroad",
   },
   {
     title: "Study Abroad Transfers",
     description: "Tuition and student expense transfers worldwide.",
-    image: "/images/service-study.jpg?v=20260217-133806",
+    image: "/images/service-study.jpg",
     alt: "Study abroad tuition transfer support",
   },
   {
     title: "Tourism Transfers",
     description: "Foreign currency exchange and travel remittances.",
-    image: "/images/service-tourism.jpg?v=20260217-133806",
+    image: "/images/service-tourism.jpg",
     alt: "Tourism remittance and foreign exchange",
   },
   {
     title: "Corporate Transfers",
     description: "Business payments and commercial FX solutions.",
-    image: "/images/service-corporate.jpg?v=20260217-133806",
+    image: "/images/service-corporate.jpg",
     alt: "Corporate transfer and FX services",
   },
 ];

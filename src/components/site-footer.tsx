@@ -61,6 +61,9 @@ export function SiteFooter() {
             <ul className="mt-4 space-y-2 text-sm text-slate-300">
               <li className="break-words">{siteConfig.phone}</li>
               <li className="break-words">{siteConfig.email}</li>
+              <li className="break-words">{siteConfig.supportEmail}</li>
+
+
               <li className="break-words">{siteConfig.addressLine}</li>
             </ul>
           </div>

@@ -64,7 +64,7 @@ const serviceThemes: ServiceTheme[] = [
 const serviceSections: ServiceSection[] = [
   {
     title: "Local Currency Exchange",
-    image: "/images/service-local.jpg?v=20260217-133806",
+   image: "/images/localcurrencyExchange.jpg",
     alt: "Local currency exchange in Benghazi with transparent rates",
     paragraphs: [
       "We provide reliable local currency exchange services for major international currencies with competitive and transparent pricing. Our rates are regularly updated in line with market conditions to ensure fair and accurate transactions for our clients.",
@@ -84,7 +84,7 @@ const serviceSections: ServiceSection[] = [
   },
   {
     title: "International Transfers",
-    image: "/images/service-international.jpg?v=20260217-133806",
+    image: "/images/service-international.jpg",
     alt: "Secure international bank transfer processing",
     paragraphs: [
       "Awail Al-Naqd facilitates secure international bank-to-bank transfers through recognized financial channels. We ensure reliable processing and transparent rate confirmation for every transaction.",
@@ -104,7 +104,7 @@ const serviceSections: ServiceSection[] = [
   },
   {
     title: "Medical Transfers",
-    image: "/images/service-medical.jpg?v=20260217-133806",
+    image: "/images/service-medical.jpg",
     alt: "International medical transfer payment to hospital",
     paragraphs: [
       "Awail Al-Naqd provides reliable international transfer services for medical treatment payments abroad. We facilitate secure remittances to hospitals, clinics, and licensed medical institutions worldwide.",
@@ -124,7 +124,7 @@ const serviceSections: ServiceSection[] = [
   },
   {
     title: "Study Abroad Transfers",
-    image: "/images/service-study.jpg?v=20260217-133806",
+    image: "/images/service-study.jpg",
     alt: "International tuition fee and student transfer services",
     paragraphs: [
       "Awail Al-Naqd provides secure international transfer services for tuition fees and student living expenses. We facilitate payments to recognized universities, colleges, and educational institutions worldwide.",
@@ -144,7 +144,7 @@ const serviceSections: ServiceSection[] = [
   },
   {
     title: "Tourism Transfers",
-    image: "/images/service-tourism.jpg?v=20260217-133806",
+    image: "/images/service-tourism.jpg",
     alt: "Foreign exchange and travel-related money transfer services",
     paragraphs: [
       "Awail Al-Naqd provides secure foreign exchange and international transfer services for travel and tourism purposes. We facilitate reliable currency exchange and remittances to support international travel needs.",
@@ -164,7 +164,7 @@ const serviceSections: ServiceSection[] = [
   },
   {
     title: "Corporate Transfers",
-    image: "/images/service-corporate.jpg?v=20260217-133806",
+    image: "/images/service-corporate.jpg",
     alt: "Corporate international transfer and commercial foreign exchange services",
     paragraphs: [
       "Awail Al-Naqd provides secure corporate transfer solutions for businesses requiring international supplier payments and commercial foreign exchange services. We support structured and compliant cross-border transactions for business operations.",
