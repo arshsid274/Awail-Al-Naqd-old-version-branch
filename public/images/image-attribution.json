@@ -1,0 +1,212 @@
+[
+  {
+    "file": "compliance-security.jpg",
+    "query": "financial compliance and cybersecurity risk review by analysts in office",
+    "provider": "pexels",
+    "providerId": "7567485",
+    "relevanceScore": 0.3833,
+    "source": "https://www.pexels.com/photo/man-in-black-suit-jacket-analyzing-data-reports-7567485/",
+    "selectedTitle": "",
+    "selectedDescription": "Focused businessman reviews financial reports at office desk with laptop.",
+    "photographer": "Tima Miroshnichenko",
+    "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+    "width": 6000,
+    "height": 4000,
+    "candidatePool": {
+      "unsplash": 20,
+      "pexels": 20,
+      "freepik": 20,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T11:32:22.475Z"
+  },
+  {
+    "file": "contact-office.jpg",
+    "query": "customer service reception desk in financial office with staff support",
+    "provider": "pexels",
+    "providerId": "8204323",
+    "relevanceScore": 0.5936,
+    "source": "https://www.pexels.com/photo/woman-in-gray-sweater-working-on-a-desktop-computers-8204323/",
+    "selectedTitle": "",
+    "selectedDescription": "A young Asian woman wearing a headset working on customer support at a modern office desk.",
+    "photographer": "Kampus Production",
+    "photographerUrl": "https://www.pexels.com/@kampus",
+    "width": 6016,
+    "height": 4016,
+    "candidatePool": {
+      "unsplash": 0,
+      "pexels": 20,
+      "freepik": 19,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T11:32:21.887Z"
+  },
+  {
+    "file": "service-banner.jpg",
+    "query": "global remittance and foreign exchange operations in financial office",
+    "provider": "pexels",
+    "providerId": "12008048",
+    "relevanceScore": 0.3183,
+    "source": "https://www.pexels.com/photo/man-exchanging-money-12008048/",
+    "selectedTitle": "",
+    "selectedDescription": "Man at a currency exchange office window, showing currency rates inside a bustling city.",
+    "photographer": "Mathias Reding",
+    "photographerUrl": "https://www.pexels.com/@matreding",
+    "width": 6240,
+    "height": 4160,
+    "candidatePool": {
+      "unsplash": 10,
+      "pexels": 20,
+      "freepik": 20,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:32:32.553Z"
+  },
+  {
+    "file": "service-corporate.jpg",
+    "query": "corporate finance team reviewing supplier invoices and payment reports in meeting room",
+    "provider": "pexels",
+    "providerId": "9034988",
+    "relevanceScore": 0.2659,
+    "source": "https://www.pexels.com/photo/group-of-office-workers-looking-at-documents-and-talking-9034988/",
+    "selectedTitle": "",
+    "selectedDescription": "High-angle view of diverse team in a business meeting discussing charts and strategies.",
+    "photographer": "RDNE Stock project",
+    "photographerUrl": "https://www.pexels.com/@rdne",
+    "width": 4480,
+    "height": 6720,
+    "candidatePool": {
+      "unsplash": 3,
+      "pexels": 20,
+      "freepik": 15,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:35:29.073Z"
+  },
+  {
+    "file": "service-international.jpg",
+    "query": "bank advisor reviewing international transfer form with client at office desk",
+    "provider": "pexels",
+    "providerId": "8867422",
+    "relevanceScore": 0.3352,
+    "source": "https://www.pexels.com/photo/man-wearing-headphones-while-working-in-the-office-8867422/",
+    "selectedTitle": "",
+    "selectedDescription": "Office worker in headset reviewing papers at a desk, multitasking efficiently.",
+    "photographer": "Yan Krukau",
+    "photographerUrl": "https://www.pexels.com/@yankrukov",
+    "width": 4000,
+    "height": 6000,
+    "candidatePool": {
+      "unsplash": 14,
+      "pexels": 20,
+      "freepik": 14,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:35:19.919Z"
+  },
+  {
+    "file": "service-local.jpg",
+    "query": "currency exchange teller counting cash for customer at indoor service counter",
+    "provider": "pexels",
+    "providerId": "6266447",
+    "relevanceScore": 0.4441,
+    "source": "https://www.pexels.com/photo/a-person-holding-a-sum-of-cash-6266447/",
+    "selectedTitle": "",
+    "selectedDescription": "A close-up of a hand using a cash counter machine to sort bills.",
+    "photographer": "Tima Miroshnichenko",
+    "photographerUrl": "https://www.pexels.com/@tima-miroshnichenko",
+    "width": 4000,
+    "height": 6000,
+    "candidatePool": {
+      "unsplash": 0,
+      "pexels": 20,
+      "freepik": 12,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:35:18.264Z"
+  },
+  {
+    "file": "service-medical.jpg",
+    "query": "hospital billing staff explaining medical payment documents to patient family",
+    "provider": "pexels",
+    "providerId": "6129677",
+    "relevanceScore": 0.5019,
+    "source": "https://www.pexels.com/photo/nurse-checking-the-dextrose-of-a-patient-6129677/",
+    "selectedTitle": "",
+    "selectedDescription": "A nurse attends to a patient in a hospital room, ensuring medical equipment is functioning.",
+    "photographer": "RDNE Stock project",
+    "photographerUrl": "https://www.pexels.com/@rdne",
+    "width": 4248,
+    "height": 6372,
+    "candidatePool": {
+      "unsplash": 20,
+      "pexels": 20,
+      "freepik": 13,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:35:20.666Z"
+  },
+  {
+    "file": "service-study.jpg",
+    "query": "student and parent reviewing tuition payment paperwork with advisor in office",
+    "provider": "pexels",
+    "providerId": "8453816",
+    "relevanceScore": 0.4586,
+    "source": "https://www.pexels.com/photo/man-and-woman-looking-at-the-paper-8453816/",
+    "selectedTitle": "",
+    "selectedDescription": "Two professionals discussing and analyzing paperwork in an office setting.",
+    "photographer": "cottonbro studio",
+    "photographerUrl": "https://www.pexels.com/@cottonbro",
+    "width": 4480,
+    "height": 6720,
+    "candidatePool": {
+      "unsplash": 9,
+      "pexels": 20,
+      "freepik": 18,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:35:22.238Z"
+  },
+  {
+    "file": "service-tourism.jpg",
+    "query": "traveler exchanging currency at service desk with passport and cash",
+    "provider": "pexels",
+    "providerId": "4968383",
+    "relevanceScore": 0.3105,
+    "source": "https://www.pexels.com/photo/people-exchanging-money-4968383/",
+    "selectedTitle": "",
+    "selectedDescription": "Close-up of hands exchanging various currency bills, highlighting money transactions.",
+    "photographer": "www.kaboompics.com",
+    "photographerUrl": "https://www.pexels.com/@karola-g",
+    "width": 4480,
+    "height": 6720,
+    "candidatePool": {
+      "unsplash": 3,
+      "pexels": 20,
+      "freepik": 8,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T09:35:49.400Z"
+  },
+  {
+    "file": "support-desk.jpg",
+    "query": "financial advisor helping client complete money transfer documents in office",
+    "provider": "pexels",
+    "providerId": "8441811",
+    "relevanceScore": 0.6692,
+    "source": "https://www.pexels.com/photo/an-agent-showing-documents-to-an-elderly-man-8441811/",
+    "selectedTitle": "",
+    "selectedDescription": "Financial advisor discussing documents with senior clients in an office setting, showcasing a collaborative consulting session.",
+    "photographer": "Kampus Production",
+    "photographerUrl": "https://www.pexels.com/@kampus",
+    "width": 6016,
+    "height": 4016,
+    "candidatePool": {
+      "unsplash": 20,
+      "pexels": 20,
+      "freepik": 19,
+      "vecteezy": 0
+    },
+    "downloadedAt": "2026-02-17T11:43:18.555Z"
+  }
+]
