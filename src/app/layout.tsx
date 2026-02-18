@@ -63,9 +63,9 @@ export const metadata: Metadata = {
     images: [`${siteOrigin}/images/og-card.svg`],
   },
   icons: {
-    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
-    shortcut: ["/icon.svg"],
-    apple: [{ url: "/icon.svg" }],
+    icon: [{ url: "/favicon-awail-v2.ico", type: "image/x-icon" }],
+    shortcut: ["/favicon-awail-v2.ico"],
+    apple: [{ url: "/apple-icon-awail-v2.png" }],
   },
 };
 
